@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rumeragon.github.io/sitemap
+Sitemap: https://rumeragon.github.io/app/sitemap
+Sitemap: https://rumeragon.github.io/assets/sitemap
+Sitemap: https://rumeragon.github.io/css/sitemap
+Sitemap: https://rumeragon.github.io/includes/sitemap
+Sitemap: https://rumeragon.github.io/item/sitemap
+Sitemap: https://rumeragon.github.io/src/sitemap
